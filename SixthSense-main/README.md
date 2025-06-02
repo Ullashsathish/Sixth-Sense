@@ -71,7 +71,7 @@ SixthSense leverages cutting-edge technologies to provide a seamless and powerfu
 
 To get started with SixthSense:
 
-1. Clone the repository: `git clone https://github.com/PRANAVJ2804/SixthSense.git`
+1. Clone the repository: `git clone https://github.com/Ullashsathish/SixthSense.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Set up Firebase:
    - Create a Firebase project
