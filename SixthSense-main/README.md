@@ -94,4 +94,4 @@ We believe in the power of community! If you're passionate about making a differ
 
 Have questions, suggestions, or want to join our mission? Reach out to me:
 
-- Email: pranavjagadeesha17@gmail.com
+- Email: ullashsathish@gmail.com
